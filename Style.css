@@ -2,12 +2,19 @@
 body {
     background-color: #fee;
 }
-h1  {
+h1 {
     background-color: #faa;
-}  
+}
 div {
-    background-image: url
-
+    background-image: url(  ①_____________________  );
+    background-repeat: no-repeat;
+    background-size: ③__________ ;
+    height: 100vh; 
+}
+p {
+    text-align: ④___________ ;
+    padding-top: 30px;
+}
 
 
 
