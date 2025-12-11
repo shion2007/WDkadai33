@@ -8,11 +8,11 @@ h1 {
 div {
     background-image: url( bg-airplane.jpg );
     background-repeat: no-repeat;
-    background-size: ③__________ ;
+    background-size: cover ;
     height: 100vh; 
 }
 p {
-    text-align: ④___________ ;
+    text-align: center;
     padding-top: 30px;
 }
 
